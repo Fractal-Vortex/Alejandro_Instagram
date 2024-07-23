@@ -1,0 +1,137 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+body{
+    background: #eee;
+}
+.wrapper{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+.flex-container{
+    display: flex;
+    background: #fff;
+    flex-direction: column;
+    
+}
+  
+.header{
+
+    padding: 5px;
+    padding-bottom: 5px;
+    justify-content: center;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+.container{
+   
+    background: lightgray;
+    height:max-content;
+    position: relative;
+    margin-top: 0;
+    justify-content: center;
+    margin-top: 3px;
+    font-family: "Roboto", sans-serif;
+    
+    
+}
+.box1{
+    width: 400px;
+    height: 390px;
+    background: #fff;
+    margin-top: 40px!important;
+    margin: auto;  
+}
+.box2{
+    width: 400px;
+    height: 390px;
+    background: #fff;
+    margin-top: 40px!important;
+    margin: auto;
+    
+}
+.box3{
+    width: 400px;
+    height: 390px;
+    background: #fff;
+    margin-top: 40px!important;
+    margin: auto;
+}
+.box4{
+    width: 400px;
+    height: 390px;
+    background: #fff;
+    margin-top: 40px!important;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.top-info{
+    background: #fff;
+    width: auto;
+    height: 30px;
+    padding: 5px;
+    font-family: "Roboto", sans-serif;
+    
+}
+.top-left{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    float: left;
+    font-family: "Roboto", sans-serif;
+}
+.top-right{
+
+    float: right;
+    color: lightgrey;
+}
+.img1{
+
+    margin-top: 1px;
+    width: auto;
+    height: 280px;
+    position: relative;
+}
+img {
+    height: 100%;
+    width: 100%;
+    max-height: 600px;
+    max-width: 6700px;
+    object-fit: cover;
+    object-position: center;
+    
+}
+p{
+    font-size: small;
+    background: #fff;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: sans-serif;
+}
+.comment {
+    background: #fff;
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.icon{
+    display: inline-block;
+    background: #fff;
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: auto;
+}
+.icon2{
+    display: inline-block;
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: auto;
+    margin-left: 68%;
+    background: #fff;
+}
+.icon-container{
+    background: white;
+}
